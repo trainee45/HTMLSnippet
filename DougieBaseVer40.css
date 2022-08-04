@@ -263,7 +263,7 @@ font-size: small;
   border-radius: .5em;
   
 	position: fixed;
-	bottom: 180px;/*was 50px 70px set to 50 to allow edit delete buttons of bottom note to be visualized*/
+	bottom: 50px;/*was 180px 50px 70px set to 50 to allow edit delete buttons of bottom note to be visualized*/
 	margin: 0 auto;
 	width: 85vw;/*this is the setting that sets the menu width was 80%*/
 	/*max-width: 800px;*/
