@@ -933,6 +933,7 @@ tbody {
   }
   
   #menu {
+  position: absolute;
 	  bottom: 50px;
   }
   
