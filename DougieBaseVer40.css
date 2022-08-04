@@ -932,6 +932,10 @@ tbody {
 	background-color: #eee;
   }
   
+  #menu {
+	  bottom: 50px;
+  }
+  
   #tableWin, #searchWin {
 	  height: 600px;
 	  top: 0px;/*previous setting is top: 40px;*/
